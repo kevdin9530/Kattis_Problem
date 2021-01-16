@@ -97,6 +97,7 @@ public class PolishNotation{
                 System.out.println("Case "+ casenumber+":" + shortenPN());
                 casenumber++;
             }
+            in.close();
         }
     }
     public static void main(String []args){
