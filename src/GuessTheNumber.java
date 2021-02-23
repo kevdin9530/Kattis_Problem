@@ -7,6 +7,7 @@ import java.util.Scanner;
  * Comment: Guess half value of the sum of min and max bound. Simple algorithm and can be found a lot on 
  * internet. Google Divide And Conquer Algorithm for more information. 
  * 
+ * 
  * Extra note: Code can be better and more straight forward if written directly in main in a while loop
  * However i like to make a class and then run it in main instead of writing all code in main app
  */
