@@ -5,6 +5,7 @@ import java.util.Scanner;
  * Code test source: 
  */
 
+
 public class Template {
 
 	public Template() {
