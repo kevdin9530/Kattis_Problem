@@ -3,6 +3,11 @@ import java.util.Scanner;
 /*
  * Author:Kevin Hoang Dinh
  * Code test source: https://open.kattis.com/problems/different
+ * 
+ * Comment: Simple code test. Mostly let the coder learn about different size of 
+ * each data type. Allow user to learn a bit about using input reader, data type conversion.
+ * 
+ * 
  */
 public class ADifferentProblem {
 
